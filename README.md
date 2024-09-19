@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<!--
+<!--Ola meu nome Dmitry 
+Estou estudando na alura
+Estou me dessevolvendo na linguagem Javascript
+
+Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 **Dmykkj/Dmykkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
